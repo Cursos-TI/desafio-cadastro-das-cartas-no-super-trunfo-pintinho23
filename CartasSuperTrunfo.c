@@ -18,8 +18,9 @@ int principal(){
     printf("iara_chaves");
     printf("39,767,00");
     printf("12.511,00");
+    printf("nome:%/cidade:%pib:%populacao");
 
-;
+principal;
 
 }
 
